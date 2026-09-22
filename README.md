@@ -1,4 +1,4 @@
-# 🦀 Curso de Rust — Boris Paskhaver
+# 📖 Curso de Rust — Boris Paskhaver
 
 > Repositório dedicado ao estudo de programação, fundamentos de sistemas e desenvolvimento de software através da linguagem Rust.
 
